@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>heartstone</OriginalElement>
+  <nodes>
+    <node x="1116.0" y="431.0">heartstone.AbstractCard</node>
+    <node x="1875.0" y="994.0">heartstone.Hunter</node>
+    <node x="2189.0" y="994.0">heartstone.Healer</node>
+    <node x="1247.0" y="994.0">heartstone.Paladin</node>
+    <node x="1156.0" y="0.0">heartstone.Card</node>
+    <node x="306.0" y="994.0">heartstone.Warlock</node>
+    <node x="947.0" y="1005.0">heartstone.Shaman</node>
+    <node x="626.0" y="994.0">heartstone.Assassin</node>
+    <node x="2500.0" y="994.0">heartstone.Mage</node>
+    <node x="1563.0" y="994.0">heartstone.Knight</node>
+    <node x="0.0" y="994.0">heartstone.Druid</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="heartstone.Shaman" target="heartstone.AbstractCard">
+      <point x="0.0" y="-48.0" />
+      <point x="1087.0" y="974.0" />
+      <point x="1333.0" y="974.0" />
+      <point x="-62.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.AbstractCard" target="heartstone.Card">
+      <point x="0.0" y="-246.5" />
+      <point x="0.0" y="190.5" />
+    </edge>
+    <edge source="heartstone.Warlock" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="456.0" y="954.0" />
+      <point x="1209.0" y="954.0" />
+      <point x="-186.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Hunter" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="2022.0" y="964.0" />
+      <point x="1519.0" y="964.0" />
+      <point x="124.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Paladin" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="0.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Mage" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="2643.5" y="944.0" />
+      <point x="1643.0" y="944.0" />
+      <point x="248.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Assassin" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="776.5" y="964.0" />
+      <point x="1271.0" y="964.0" />
+      <point x="-124.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Knight" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="1709.0" y="974.0" />
+      <point x="1457.0" y="974.0" />
+      <point x="62.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Druid" target="heartstone.AbstractCard">
+      <point x="0.0" y="-59.0" />
+      <point x="143.0" y="944.0" />
+      <point x="1147.0" y="944.0" />
+      <point x="-248.0" y="246.5" />
+    </edge>
+    <edge source="heartstone.Healer" target="heartstone.AbstractCard">
+      <point x="2.2737367544323206E-13" y="-59.0" />
+      <point x="2334.5" y="954.0" />
+      <point x="1581.0" y="954.0" />
+      <point x="186.0" y="246.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7061310782241015" x="463.0" y="103.5" />
+  <SelectedNodes>
+    <node>heartstone.Druid</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
