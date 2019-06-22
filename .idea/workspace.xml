@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a26f42-e52c-42d1-bba3-9469c9968a0f" name="Default" comment="" />
+    <list default="true" id="c8a26f42-e52c-42d1-bba3-9469c9968a0f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/AbstractCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/AbstractCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Assassin.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Assassin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Card.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Druid.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Druid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Healer.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Healer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Hunter.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Hunter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Knight.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Knight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Mage.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Mage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Paladin.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Paladin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Shaman.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Shaman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/Warlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/Warlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/AbstractCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/AbstractCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Assassin.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Assassin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Card.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Druid.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Druid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Healer.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Healer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Hunter.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Hunter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Knight.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Knight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Mage.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Mage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Paladin.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Paladin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Shaman.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Shaman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/class-use/Warlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/class-use/Warlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/heartstone/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/heartstone/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/AbstractCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/AbstractCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Assassin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Assassin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/CardTypesDiagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/CardTypesDiagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/CardTypesDiagram.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/CardTypesDiagram.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Druid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Healer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Healer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Hunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Paladin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Paladin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Shaman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Shaman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heartstone/Warlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hearthstone/Warlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/AssassinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AssassinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/DruidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/DruidTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/HealerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/HealerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/HunterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/HunterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/KnightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/PaladinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/PaladinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ShamanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ShamanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/WarlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/WarlockTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,295 +84,146 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="160" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Druid.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Druid.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hearthstone/AbstractCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CardTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/CardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/heartstone" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/heartstone">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
-              <ID>JAVA</ID>
-              <OriginalElement>heartstone</OriginalElement>
-              <nodes>
-                <node x="1116.0" y="431.0">heartstone.AbstractCard</node>
-                <node x="1875.0" y="994.0">heartstone.Hunter</node>
-                <node x="2189.0" y="994.0">heartstone.Healer</node>
-                <node x="1247.0" y="994.0">heartstone.Paladin</node>
-                <node x="1156.0" y="0.0">heartstone.Card</node>
-                <node x="306.0" y="994.0">heartstone.Warlock</node>
-                <node x="947.0" y="1005.0">heartstone.Shaman</node>
-                <node x="626.0" y="994.0">heartstone.Assassin</node>
-                <node x="2500.0" y="994.0">heartstone.Mage</node>
-                <node x="1563.0" y="994.0">heartstone.Knight</node>
-                <node x="0.0" y="994.0">heartstone.Druid</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="heartstone.Shaman" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-48.0" />
-                  <point x="1087.0" y="974.0" />
-                  <point x="1333.0" y="974.0" />
-                  <point x="-62.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.AbstractCard" target="heartstone.Card">
-                  <point x="0.0" y="-246.5" />
-                  <point x="0.0" y="190.5" />
-                </edge>
-                <edge source="heartstone.Warlock" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="456.0" y="954.0" />
-                  <point x="1209.0" y="954.0" />
-                  <point x="-186.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Hunter" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="2022.0" y="964.0" />
-                  <point x="1519.0" y="964.0" />
-                  <point x="124.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Paladin" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="0.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Mage" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="2643.5" y="944.0" />
-                  <point x="1643.0" y="944.0" />
-                  <point x="248.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Assassin" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="776.5" y="964.0" />
-                  <point x="1271.0" y="964.0" />
-                  <point x="-124.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Knight" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="1709.0" y="974.0" />
-                  <point x="1457.0" y="974.0" />
-                  <point x="62.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Druid" target="heartstone.AbstractCard">
-                  <point x="0.0" y="-59.0" />
-                  <point x="143.0" y="944.0" />
-                  <point x="1147.0" y="944.0" />
-                  <point x="-248.0" y="246.5" />
-                </edge>
-                <edge source="heartstone.Healer" target="heartstone.AbstractCard">
-                  <point x="2.2737367544323206E-13" y="-59.0" />
-                  <point x="2334.5" y="954.0" />
-                  <point x="1581.0" y="954.0" />
-                  <point x="186.0" y="246.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.7061310782241015" x="463.0" y="245.82485029940116" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+              <folding>
+                <element signature="e#1932#1933#0" expanded="true" />
+                <element signature="e#1968#1969#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Healer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Healer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hearthstone/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hunter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Hunter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-              <folding />
+            <state relative-caret-position="75">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Knight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Knight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Mage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Paladin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Paladin.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hearthstone/Paladin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-              <folding />
+              <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shaman.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Shaman.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hearthstone/Shaman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Warlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heartstone/Warlock.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hearthstone/Warlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="118">
+              <caret line="34" column="106" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/heartstone/Card.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Assassin.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Druid.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Healer.java" />
         <option value="$PROJECT_DIR$/src/heartstone/Hunter.java" />
         <option value="$PROJECT_DIR$/src/heartstone/Knight.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Mage.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Paladin.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Shaman.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Warlock.java" />
         <option value="$PROJECT_DIR$/src/heartstone/AbstractCard.java" />
-        <option value="$PROJECT_DIR$/src/heartstone/Druid.java" />
+        <option value="$PROJECT_DIR$/src/heartstone/Card.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Assassin.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Druid.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Healer.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Hunter.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Knight.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Mage.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Paladin.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Shaman.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/Warlock.java" />
+        <option value="$PROJECT_DIR$/src/hearthstone/AbstractCard.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tarea1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="heartstone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="cc3002-tarea1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cc3002-tarea1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hamcrest-core-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,205 +237,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CardTest">
-    <configuration default="false" name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Tarea1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Tarea1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.CardTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+    <configuration default="true" type="FlashRunConfigurationType">
       <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
       <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
@@ -545,9 +327,11 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
         <LauncherParameters>
@@ -559,23 +343,9 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -583,81 +353,73 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
-      <method />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All in Tarea1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tarea1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssassinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.AssassinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HealerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="test in Tarea1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tarea1" />
-      <envs />
-      <method />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -665,78 +427,78 @@
       <option name="passParentEnvs" value="true" />
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CardTest" />
+    <list>
+      <item itemvalue="JUnit.AssassinTest" />
+      <item itemvalue="JUnit.test in Tarea1" />
+      <item itemvalue="JUnit.HealerTest" />
+      <item itemvalue="JUnit.All in Tarea1" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CardTest" />
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in Tarea1" />
+        <item itemvalue="JUnit.HealerTest" />
+        <item itemvalue="JUnit.test in Tarea1" />
+        <item itemvalue="JUnit.AssassinTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -746,167 +508,105 @@
       <option name="presentableId" value="Default" />
       <updated>1503738670965</updated>
       <workItem from="1503738673527" duration="1006000" />
+      <workItem from="1561170744713" duration="15408000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CardTest - 2017.08.26 at 06h 22m 55s.xml">
-      <configuration name="CardTest" configurationId="JUnit" />
+    <history-entry file="AssassinTest - 2019.06.21 at 23h 29m 50s.xml">
+      <configuration name="AssassinTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CardTest - 2017.08.26 at 06h 24m 03s.xml">
-      <configuration name="CardTest" configurationId="JUnit" />
+    <history-entry file="AssassinTest - 2019.06.21 at 23h 51m 32s.xml">
+      <configuration name="AssassinTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShamanTest - 2019.06.21 at 23h 52m 27s.xml">
+      <configuration name="ShamanTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DruidTest - 2019.06.21 at 23h 55m 01s.xml">
+      <configuration name="DruidTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DruidTest_testAttack - 2019.06.21 at 23h 55m 10s.xml">
+      <configuration name="DruidTest.testAttack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssassinTest - 2019.06.21 at 23h 59m 39s.xml">
+      <configuration name="AssassinTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_in_Tarea1 - 2019.06.21 at 23h 59m 52s.xml">
+      <configuration name="test in Tarea1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HealerTest - 2019.06.22 at 00h 01m 33s.xml">
+      <configuration name="HealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HealerTest - 2019.06.22 at 00h 01m 43s.xml">
+      <configuration name="HealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Tarea1 - 2019.06.22 at 00h 02m 18s.xml">
+      <configuration name="All in Tarea1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1006000" />
+    <option name="totallyTimeSpent" value="16414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="67" y="27" width="1299" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16759777" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960895" />
+      <window_info anchor="right" id="Properties" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <option name="version" value="1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cc3002_tarea1$AssassinTest.ic" NAME="AssassinTest Coverage Results" MODIFIED="1561173733922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cc3002_tarea1$test_in_Tarea1.ic" NAME="test in Tarea1 Coverage Results" MODIFIED="1561175990331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cc3002_tarea1$All_in_Tarea1.ic" NAME="All in Tarea1 Coverage Results" MODIFIED="1561176135225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/cc3002_tarea1$HealerTest.ic" NAME="HealerTest Coverage Results" MODIFIED="1561176101302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Assassin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Hunter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Mage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Paladin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Shaman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Warlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/AbstractCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="171" column="10" lean-forward="false" selection-start-line="171" selection-start-column="4" selection-end-line="171" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Druid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heartstone/Healer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/CardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/CardTest.java" />
     <entry file="uml://JAVA/heartstone">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -984,7 +684,7 @@
               <point x="186.0" y="246.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7061310782241015" x="463.0" y="245.82485029940116" />
+          <settings layout="Hierarchic Group" zoom="0.7061310782241015" x="463.0" y="246.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -996,5 +696,230 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ShamanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/DruidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/HunterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AssassinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/KnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Assassin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Druid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Healer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Hunter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Mage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Paladin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Shaman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Warlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="34" column="106" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hearthstone/AbstractCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Tarea1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

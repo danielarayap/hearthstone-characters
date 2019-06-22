@@ -1,4 +1,4 @@
-package heartstone;
+package hearthstone;
 
 /**
  * AbstractCard is an object that includes other Card objects. AbstractCard implements methods from
@@ -36,6 +36,8 @@ public abstract class AbstractCard implements Card {
   public double getAttack() {
     return attack;
   }
+
+  public double getHealth() { return lifePoints - damageCounter; }
 
   /**
    * @param card Card to attack.

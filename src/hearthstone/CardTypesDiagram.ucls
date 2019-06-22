@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.0" icons="true" automaticImage="JPEG" always-add-relationships="true" generalizations="true" 
   realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <interface id="1" language="java" name="heartstone.Card" project="Tarea1" file="/Tarea1/src/heartstone/Card.java" 
+  <interface id="1" language="java" name="hearthstone.Card" project="Tarea1" file="/Tarea1/src/hearthstone/Card.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="371" y="153"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" 
@@ -10,8 +10,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="2" language="java" name="heartstone.AbstractCard" project="Tarea1" 
-    file="/Tarea1/src/heartstone/AbstractCard.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="hearthstone.AbstractCard" project="Tarea1"
+    file="/Tarea1/src/hearthstone/AbstractCard.java" binary="false" corner="BOTTOM_RIGHT">
     <position height="-1" width="-1" x="375" y="583"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,7 +19,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="heartstone.Hunter" project="Tarea1" file="/Tarea1/src/heartstone/Hunter.java" 
+  <class id="3" language="java" name="hearthstone.Hunter" project="Tarea1" file="/Tarea1/src/hearthstone/Hunter.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="187" y="912"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -28,7 +28,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="heartstone.Healer" project="Tarea1" file="/Tarea1/src/heartstone/Healer.java" 
+  <class id="4" language="java" name="hearthstone.Healer" project="Tarea1" file="/Tarea1/src/hearthstone/Healer.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="3" y="913"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -37,7 +37,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="heartstone.Druid" project="Tarea1" file="/Tarea1/src/heartstone/Druid.java" 
+  <class id="5" language="java" name="hearthstone.Druid" project="Tarea1" file="/Tarea1/src/hearthstone/Druid.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="-187" y="913"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -46,7 +46,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="heartstone.Assassin" project="Tarea1" file="/Tarea1/src/heartstone/Assassin.java" 
+  <class id="6" language="java" name="hearthstone.Assassin" project="Tarea1" file="/Tarea1/src/hearthstone/Assassin.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="-378" y="912"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -55,7 +55,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="heartstone.Knight" project="Tarea1" file="/Tarea1/src/heartstone/Knight.java" 
+  <class id="7" language="java" name="hearthstone.Knight" project="Tarea1" file="/Tarea1/src/hearthstone/Knight.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="373" y="912"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -64,7 +64,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="heartstone.Mage" project="Tarea1" file="/Tarea1/src/heartstone/Mage.java" 
+  <class id="8" language="java" name="hearthstone.Mage" project="Tarea1" file="/Tarea1/src/hearthstone/Mage.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="568" y="912"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -73,7 +73,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="9" language="java" name="heartstone.Paladin" project="Tarea1" file="/Tarea1/src/heartstone/Paladin.java" 
+  <class id="9" language="java" name="hearthstone.Paladin" project="Tarea1" file="/Tarea1/src/hearthstone/Paladin.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="756" y="912"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -82,7 +82,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="10" language="java" name="heartstone.Shaman" project="Tarea1" file="/Tarea1/src/heartstone/Shaman.java" 
+  <class id="10" language="java" name="hearthstone.Shaman" project="Tarea1" file="/Tarea1/src/hearthstone/Shaman.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="937" y="904"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
@@ -91,7 +91,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="11" language="java" name="heartstone.Warlock" project="Tarea1" file="/Tarea1/src/heartstone/Warlock.java" 
+  <class id="11" language="java" name="hearthstone.Warlock" project="Tarea1" file="/Tarea1/src/hearthstone/Warlock.java"
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="1123" y="913"/>    
     <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 

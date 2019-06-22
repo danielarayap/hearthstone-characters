@@ -1,4 +1,4 @@
-package heartstone;
+package hearthstone;
 
 /**
  * Card is an interface with the methods that will be implemented in the AbstractCard abstract
@@ -23,6 +23,11 @@ public interface Card {
    * @return Card's life points.
    */
   double getLife();
+
+  /**
+   * @return Card's life points.
+   */
+  double getHealth();
 
   /**
    * @return Card's name.

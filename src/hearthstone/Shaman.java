@@ -1,4 +1,4 @@
-package heartstone;
+package hearthstone;
 
 /**
  * Shaman is a type of Card with some specifications in certain methods, also it defines the
@@ -32,6 +32,7 @@ public class Shaman extends AbstractCard {
       return;
     }
     card.attackedByShaman(attack);
+    System.out.println(this.name + " attacks " + card.getName() + " with an attack of " + this.attack + "\n");
   }
 
   /**

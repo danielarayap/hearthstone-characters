@@ -1,4 +1,4 @@
-package heartstone;
+package hearthstone;
 
 /**
  * Druid is a type of Card with some specifications in certain methods, also it defines the abstract
@@ -32,6 +32,7 @@ public class Druid extends AbstractCard {
       return;
     }
     card.attackedByDruid(attack);
+    System.out.println(this.name + " attacks " + card.getName() + " with an attack of " + this.attack + "\n");
   }
 
   /**
