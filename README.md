@@ -26,10 +26,10 @@ To run a simulation of this assignment, clone this Java project and compile it f
 ```console
 your_user@your_machine:~$ cd /project/folder/location
 your_user@your_machine:~/project/folder/location$ cd /src/main
-your_user@your_machine:~/project/folder/location/src/main$ javac  Main.java
+your_user@your_machine:~/project/folder/location/src/main$ javac Main.java
 your_user@your_machine:~/project/folder/location/src/main$ java Main
 ```
 
-This program was written in Java so make sure you have a Java version installed on your machine.
-Let me know any comments or suggestions.
-CC3002 - Metodologías de Diseño y Programación - 2017
+This program was written in Java so make sure you have a Java version installed on your machine.  
+Let me know any comments or suggestions.  
+CC3002 - Metodologías de Diseño y Programación - 2017  

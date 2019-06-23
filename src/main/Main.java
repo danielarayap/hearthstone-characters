@@ -46,7 +46,7 @@ public class Main {
             Thread.sleep(4000);
             displayStatus(card1, card2);
         }
-        Thread.sleep(3000);
+        Thread.sleep(2300);
         displayResult(card1, card2);
     }
 
