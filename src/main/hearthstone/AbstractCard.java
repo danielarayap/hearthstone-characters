@@ -3,7 +3,7 @@ package hearthstone;
 /**
  * AbstractCard is an object that includes other Card objects. AbstractCard implements methods from
  * Interface Card.
- * 
+ *
  * @author Daniel Araya.
  * @since 1.0.
  */
@@ -37,7 +37,12 @@ public abstract class AbstractCard implements Card {
     return attack;
   }
 
-  public double getHealth() { return lifePoints - damageCounter; }
+  public double getHealth() {
+    if (lifePoints > damageCounter)
+      return lifePoints - damageCounter;
+    else
+      return 0;
+  }
 
   /**
    * @param card Card to attack.

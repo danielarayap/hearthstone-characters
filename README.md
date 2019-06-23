@@ -22,5 +22,14 @@ This damage calculation depends on what cards are fighting. The relation goes li
 * Paladin raises the attack and restores damage from a card using 1/3 of Paladin's attack.
 * Shaman decreases attack and damage a card using 1/3 of Shaman's attack.
 
+To run a simulation of this assignment, clone this Java project and compile it from command line using:
+```console
+your_user@your_machine:~$ cd /project/folder/location
+your_user@your_machine:~/project/folder/location$ cd /src/main
+your_user@your_machine:~/project/folder/location/src/main$ javac  Main.java
+your_user@your_machine:~/project/folder/location/src/main$ java Main
+```
 
+This program was written in Java so make sure you have a Java version installed on your machine.
+Let me know any comments or suggestions.
 CC3002 - Metodologías de Diseño y Programación - 2017

@@ -1,4 +1,5 @@
-package main;
+//package main;
+
 import hearthstone.*;
 
 public class Main {
@@ -24,8 +25,8 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("\nThis is a simulation of a battle between HearthStone characters.\n");
         Thread.sleep(1000);
-        Card card1 = new Assassin("Lord Jaraxxus", 30, 5);
-        Card card2 = new Assassin("Deadscale Knight", 30, 5);
+        Card card1 = new Assassin("Random Assassin", 50, 2);
+        Card card2 = new Warlock("Lord Jaraxxus", 30, 4);
         displayStatus(card1, card2);
         while (true) {
             Thread.sleep(2000);
@@ -44,7 +45,7 @@ public class Main {
                 if (card2.isDead())
                     break;
             }
-            Thread.sleep(2000);
+            Thread.sleep(3500);
             displayStatus(card1, card2);
         }
         displayResult(card1, card2);
