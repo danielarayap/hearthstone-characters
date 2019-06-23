@@ -21,3 +21,6 @@ This damage calculation depends on what cards are fighting. The relation goes li
 * Healer restores damage from a card (can't resurrect it), using 1/2 of his attack. Receives double attack from Assassin and double effects from Paladin's attack.
 * Paladin raises the attack and restores damage from a card using 1/3 of Paladin's attack.
 * Shaman decreases attack and damage a card using 1/3 of Shaman's attack.
+
+
+CC3002 - Metodologías de Diseño y Programación - 2017
