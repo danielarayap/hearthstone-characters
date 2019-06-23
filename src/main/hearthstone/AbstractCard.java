@@ -44,6 +44,10 @@ public abstract class AbstractCard implements Card {
       return 0;
   }
 
+  public String getPrettyName(){
+      return "[" + this.getClass().getSimpleName() + "] " + this.getName(); 
+  }
+
   /**
    * @param card Card to attack.
    */

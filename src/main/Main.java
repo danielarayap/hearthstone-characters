@@ -1,5 +1,3 @@
-//package main;
-
 import hearthstone.*;
 
 public class Main {
@@ -10,8 +8,8 @@ public class Main {
     }
 
     private static void displayStatus(Card firstCard, Card secondCard){
-        System.out.println(firstCard.getName() + "(" + firstCard.getHealth() + " HP)" + " ---------------vs------------- " +
-                secondCard.getName() + "(" + secondCard.getHealth() + " HP)\n");
+        System.out.println(firstCard.getPrettyName() + "(" + firstCard.getHealth() + " HP)" + " ----vs---- " +
+                secondCard.getPrettyName() + "(" + secondCard.getHealth() + " HP)\n");
     }
 
     private static void displayResult(Card firstCard, Card secondCard){
@@ -45,9 +43,10 @@ public class Main {
                 if (card2.isDead())
                     break;
             }
-            Thread.sleep(3500);
+            Thread.sleep(4000);
             displayStatus(card1, card2);
         }
+        Thread.sleep(3000);
         displayResult(card1, card2);
     }
 
